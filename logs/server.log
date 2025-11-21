@@ -1,23 +1,23 @@
 INFO:     Will watch for changes in these directories: ['/home/workspace']
 INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
-INFO:     Started reloader process [152] using StatReload
-INFO:     Started server process [154]
+INFO:     Started reloader process [201] using StatReload
+INFO:     Started server process [203]
 INFO:     Waiting for application startup.
 INFO:     Application startup complete.
-INFO:     172.20.0.1:51430 - "HEAD / HTTP/1.1" 405 Method Not Allowed
-INFO:     172.20.0.1:49756 - "GET /api/gallery HTTP/1.1" 200 OK
-INFO:     172.20.0.1:49756 - "GET /api/gallery HTTP/1.1" 200 OK
-INFO:     172.20.0.1:49766 - "GET /api/team HTTP/1.1" 200 OK
-INFO:     172.20.0.1:49744 - "GET /api/events?status=upcoming HTTP/1.1" 200 OK
-INFO:     172.20.0.1:49766 - "GET /api/team HTTP/1.1" 200 OK
-INFO:     172.20.0.1:49744 - "GET /api/events?status=upcoming HTTP/1.1" 200 OK
-INFO:     172.20.0.1:49744 - "GET /api/events?status=past HTTP/1.1" 200 OK
-INFO:     172.20.0.1:49744 - "GET /api/events?status=past HTTP/1.1" 200 OK
-INFO:     172.20.0.1:49774 - "GET /api/events?status=upcoming HTTP/1.1" 200 OK
-INFO:     172.20.0.1:49774 - "GET /api/team HTTP/1.1" 200 OK
-INFO:     172.20.0.1:46708 - "GET /api/events?status=upcoming HTTP/1.1" 200 OK
-INFO:     172.20.0.1:46702 - "GET /api/gallery HTTP/1.1" 200 OK
-INFO:     172.20.0.1:49774 - "GET /api/team HTTP/1.1" 200 OK
-INFO:     172.20.0.1:46708 - "GET /api/gallery HTTP/1.1" 200 OK
-INFO:     172.20.0.1:46708 - "GET /api/events?status=past HTTP/1.1" 200 OK
-INFO:     172.20.0.1:46708 - "GET /api/events?status=past HTTP/1.1" 200 OK
+INFO:     172.20.0.1:39272 - "HEAD / HTTP/1.1" 405 Method Not Allowed
+INFO:     172.20.0.1:39286 - "GET /api/events?status=upcoming HTTP/1.1" 200 OK
+INFO:     172.20.0.1:39302 - "GET /api/events?status=upcoming HTTP/1.1" 200 OK
+INFO:     172.20.0.1:39286 - "GET /api/events?status=past HTTP/1.1" 200 OK
+INFO:     172.20.0.1:39298 - "GET /api/gallery HTTP/1.1" 200 OK
+INFO:     172.20.0.1:39286 - "GET /api/events?status=past HTTP/1.1" 200 OK
+INFO:     172.20.0.1:39298 - "GET /api/gallery HTTP/1.1" 200 OK
+INFO:     172.20.0.1:39294 - "GET /api/team HTTP/1.1" 200 OK
+INFO:     172.20.0.1:39294 - "GET /api/team HTTP/1.1" 200 OK
+INFO:     172.20.0.1:38104 - "GET /api/team HTTP/1.1" 200 OK
+INFO:     172.20.0.1:38074 - "GET /api/gallery HTTP/1.1" 200 OK
+INFO:     172.20.0.1:38090 - "GET /api/events?status=upcoming HTTP/1.1" 200 OK
+INFO:     172.20.0.1:38104 - "GET /api/team HTTP/1.1" 200 OK
+INFO:     172.20.0.1:38074 - "GET /api/gallery HTTP/1.1" 200 OK
+INFO:     172.20.0.1:38090 - "GET /api/events?status=upcoming HTTP/1.1" 200 OK
+INFO:     172.20.0.1:38090 - "GET /api/events?status=past HTTP/1.1" 200 OK
+INFO:     172.20.0.1:38090 - "GET /api/events?status=past HTTP/1.1" 200 OK
